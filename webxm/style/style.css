@@ -1,0 +1,278 @@
+/* CSS Document */
+*{
+	margin:0;
+	padding:0;}
+ body{
+	 font-family:"MILT_RG";
+	 font-size:14px;
+	 color:#000;}
+a{
+	text-decoration:none;}
+ul{
+	list-style-type:none;}
+.clear{
+	clear:both;}
+img{
+	border:none;}
+#head{
+	height:49px;
+	line-height:49px;
+	background:#000;}
+#head_left{
+	float:left;
+	padding:16px 0 0 50px;}
+#head_right{
+	float:right;
+	padding-right:50px;}
+#head_right ul  li{
+	display:inline;
+	padding:0 16px;}
+#head_right ul li a{
+	color:#dddddd;}
+#head_right ul li a:hover{
+   color:#dddddd;}
+  #xm_con_i{
+	  height:756px;
+	  background:#eee url(../imges/miui7.5-001.jpg) no-repeat center center;
+	  text-align:center;
+	  overflow:hidden;}
+#xm_con_i_1{
+	position:relative;
+	top:200px;}
+	#xm_con_i_1 a{
+		height:36px;
+		width:154px;
+		color:#636363;
+		border:1px solid#828282;
+		border-radius:20px;
+		behavior:ur1(ie-css3.htc);
+		margin:35px auto;
+		line-height:36px;
+		display:block;}
+	#xm_con_i_1 p{
+		font-size:18px;
+		color:#878787;
+		line-height:30px;
+		}
+#xm_con_2{
+	height:1280px;
+	background:url(../imges/miui7.5-031.jpg) no-repeat center center;
+	text-align:center;
+	overflow:hidden;}
+#xm_con_2_m{
+	margin-top:80px;}
+#xm_con_2_m h2{
+	font-size:36px;
+	font-weight:100;
+	line-height:90px;}
+	#xm_con_2_m p{
+		color:#9e9d9b;
+		font-size:18px;
+		line-height:30px;}
+#xm_con_3{
+	height:1600px;
+	padding-top:110px;
+	text-align:center;}
+#xm_con_3 h2{
+	color:#585858;
+	font-size:36px;
+	font-weight:100;
+	margin-bottom:30px;}
+#xm_con_3 p{
+	color:#8d8d8d;;
+	font-size:16px;
+	line-height:30px;
+	letter-spacing:1px;}
+#xm_con_3 p.zs{
+	color:#b8b8b8;
+	font-size:16px;
+	margin-top:25px;}
+#xm_con_3_sj{
+	width:1240px;
+	height:800px;
+	background:url(../imges/miui7.5-002.jpg) no-repeat center center;
+	margin-top:35px;
+	margin:0 auto;
+	overflow:hidden;}
+#xm_con_3_sj ul li{
+	display:inline;
+	}
+#xm_con_3_sj ul{
+	margin-top:760px;
+	font-size:18px;
+	color:#8d8d8d;
+	line-height:30px;}
+.sj_1{
+	position:relative;
+	right:260px;}
+.sj_2{
+	position:relative;
+	left:20px;}
+.sj_3{
+	position:relative;
+	left:290px;}
+#xm_con_3 h4{
+	color:#585858;
+	font-size:22px;
+	line-height:30px;
+	font-weight:100;
+	margin-top:40px;}
+#xm_con_3_gj{
+	width:1125px;
+	height:320px;
+	margin:0 auto;
+	background:url(../imges/miui7.5-004.jpg) no-repeat;
+	overflow:hidden;}
+#xm_con_3_gj ul{
+	margin-top:295px;}
+#xm_con_3_gj ul li{
+	display:inline;
+	font-size:18px;
+	color:#8d8d8d;
+	line-height:30px;
+	margin:0 232px;}
+#xm_con_4{
+	height:800px;
+	text-align:center;}
+#xm_con_4 p{
+	font-size:16px;
+	color:#8d8d8d;
+	line-height:30px;}
+#xm_con_4 h2{
+	font-size:36px;
+	font-weight:100;
+	color:#585858;
+	margin-bottom:30px;
+	}
+#xm_con_4_gj{
+	width:1240px;
+	height:520px;
+	background:url(../imges/miui7.5-005.jpg) no-repeat center center;
+	overflow:hidden;
+	margin:0 auto;
+	margin-top:70px}
+#xm_con_5{
+	height:1000px;
+	text-align:center;}
+#xm_con_5 p{
+	line-height:30px;
+	font-size:16px;
+	color:#8d8d8d;}	
+#xm_con_5 h2{
+	font-size:36px;
+	font-weight:100px;
+	color:#585858;
+	margin-bottom:30px;}	
+#xm_con_5_gj{
+	background:url(../imges/miui7.5-006.jpg) no-repeat center center;
+	overflow:hidden;
+	width:1240px;
+	height:684px;
+	margin:0 auto;
+	margin-top:90px;}	
+#xm_con_6{
+	height:1000px;
+	text-align:center;}
+#xm_con_6 p{
+	line-height:30px;
+	font-size:16px;
+	color:#8d8d8d;}	
+#xm_con_6 .sr{color:#b8b8b8;
+	font-size:16px;
+	margin-top:25px;}
+#xm_con_6 h2{
+	font-size:36px;
+	font-weight:100px;
+	color:#585858;
+	margin-bottom:30px;}		
+#xm_con_6_gj{
+	background:url(../imges/miui7.5-007.jpg) no-repeat center center;
+	width:1240px;
+	height:626px;
+	margin:0 auto;
+	margin-top:90px;
+	overflow:hidden;}
+#xm_con_7{
+	height:800px;
+	text-align:center;}
+#xm_con_7 p{
+	line-height:30px;
+	font-size:16px;
+	color:#8d8d8d;}			
+#xm_con_7 h2{
+	font-size:36px;
+	font-weight:100px;
+	color:#585858;
+	margin-bottom:30px;}		
+#xm_con_7_gj{
+	background:url(../imges/miui7.5-050.jpg) no-repeat center center;
+	width:1240px;
+	height:514px;
+	margin:0 auto;
+	margin-top:90px;
+	overflow:hidden}
+#xm_con_8{
+	height:1000px;
+	text-align:center;}
+#xm_con_8 p{
+	line-height:30px;
+	font-size:16px;
+	color:#8d8d8d;}			
+#xm_con_8 h2{
+	font-size:36px;
+	font-weight:100px;
+	color:#585858;
+	margin-bottom:30px;}		
+#xm_con_8_gj{
+	background:url(../imges/miui7.5-008.jpg) no-repeat center center;
+	width:1240px;
+	height:576px;
+	margin:0 auto;
+	margin-top:90px;
+	overflow:hidden}	
+	#xm_con_9{
+	height:1000px;
+	text-align:center;}
+#xm_con_9 p{
+	line-height:30px;
+	font-size:16px;
+	color:#8d8d8d;}
+#xm_con_9 p.jx{
+	color:#b8b8b8;
+	font-size:16px;
+	margin-top:25px;}			
+#xm_con_9 h2{
+	font-size:36px;
+	font-weight:100px;
+	color:#585858;
+	margin-bottom:30px;}		
+#xm_con_9_gj{
+	background:url(../imges/miui7.5-009.jpg) no-repeat center center;
+	width:1240px;
+	height:661px;
+	margin:0 auto;
+	margin-top:90px;
+	overflow:hidden}	
+#footer{
+	height:160px;
+	background-color:#626262;
+	text-align:center;
+	overflow:hidden;}
+	
+#footer ul{
+	margin-top:50px;}
+#footer ul li{
+	display:inline;
+	color:#d9d9d9;
+	padding-left:23px;
+	line-height:30px;
+	}
+#footer ul li a{
+	padding-right:27px;
+	color:#858585;
+	
+	}
+#footer p{
+	line-height:30px;
+	font-size:12px;
+	color:#c5c6c8;}
